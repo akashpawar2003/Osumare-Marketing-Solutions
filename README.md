@@ -3,9 +3,7 @@
 ## Overview - This API lets you access tasks.
 ### BaseURL-http://localhost:3000/tasks
 ## ALL Request
-- **Frontend:** React, Tailwind CSS
-- **[GET Request](http://localhost:3000/tasks))**
-   
+**-GET - http://localhost:3000/tasks**
 ### 1.Retrieve a list of all tasks
 ```javascript
 export const allTask = (req,res) => {

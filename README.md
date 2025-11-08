@@ -17,5 +17,5 @@ export const allTask = (req,res) => {
   }
 };
 ```
-![alt text](get.png)
+![alt text](images/get.png)
 ---

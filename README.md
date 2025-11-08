@@ -4,11 +4,11 @@
 
 ## ALL Request
 ### BaseURL-http://localhost:3000/tasks
-**-GET - http://localhost:3000/tasks**
-**-GET ID - http://localhost:3000/tasks/{id}**
-**-POST - http://localhost:3000/tasks/add**
-**-PUT - http://localhost:3000/tasks/update/{id}**
-**-DELETE - http://localhost:3000/tasks/{id}**
+-**-GET - http://localhost:3000/tasks**
+-**-GET ID - http://localhost:3000/tasks/{id}**
+-**-POST - http://localhost:3000/tasks/add**
+-**-PUT - http://localhost:3000/tasks/update/{id}**
+-**-DELETE - http://localhost:3000/tasks/{id}**
 
 
 

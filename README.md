@@ -1,7 +1,7 @@
 # CRUD OPERATION
 ## I have build crud Operation without using any database as per company assignment
-### 1.//Retrieve a list of all tasks
-```
+### 1.Retrieve a list of all tasks
+```javascript
 export const allTask = (req,res) => {
   try {
     if(!tasksArray){

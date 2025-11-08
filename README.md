@@ -1,9 +1,18 @@
 # CRUD OPERATION
 ## I have build crud Operation without using any database as per company assignment
 ## Overview - This API lets you access tasks.
-### BaseURL-http://localhost:3000/tasks
+
 ## ALL Request
+### BaseURL-http://localhost:3000/tasks
 **-GET - http://localhost:3000/tasks**
+**-GET ID - http://localhost:3000/tasks/{id}**
+**-POST - http://localhost:3000/tasks/add**
+**-PUT - http://localhost:3000/tasks/update/{id}**
+**-DELETE - http://localhost:3000/tasks/{id}**
+
+
+
+
 ### 1.Retrieve a list of all tasks
 ```javascript
 export const allTask = (req,res) => {

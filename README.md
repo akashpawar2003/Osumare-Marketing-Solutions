@@ -1,4 +1,4 @@
-# CRUD OPERATION
+# BACKEND/FRONTEND
 ## I have build crud Operation without using any database as per company assignment
 ## Overview - This API lets you access tasks.
 
@@ -134,3 +134,7 @@ export const deleteTask = (req, res) => {
 ```
 ![alt text](images/delete.png)
 ---
+## FRONTEND
+![alt text](images/form.png)
+![alt text](images/thnkyou.png)
+![alt text](images/users.png)

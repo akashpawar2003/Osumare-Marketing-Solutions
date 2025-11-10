@@ -136,5 +136,5 @@ export const deleteTask = (req, res) => {
 ---
 ## FRONTEND
 ![alt text](images/form.png)
-![alt text](images/thnkyou.png)
+![alt text](images/thankyou.png)
 ![alt text](images/users.png)

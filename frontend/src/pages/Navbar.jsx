@@ -5,10 +5,10 @@ const Navbar = () => {
   return (
     <>
       <div className="flex flex-row justify-between items-center min-w-screen text-center h-16 mt-5 ">
-        <div className='ml-10 sm:block  mr-5 w-1/2 fixed'>
+        <div className='ml-10  mr-5 w-1/2'>
           <img src={logo} alt="logo" />
         </div>
-        <nav className="space-x-5 ml-80 text-black-10 font-medium " >
+        <nav className="space-x-5  text-black-10 font-medium flex flex-row" >
           <a href="#" className="">About us</a>
           <a href="#" className="">Features</a>
           <a href="#" className="">More option</a>
